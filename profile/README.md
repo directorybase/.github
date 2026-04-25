@@ -72,6 +72,7 @@ This system is built to catch that early.
 
 ## Notes
 
-This is not a directory of random projects.
+Everything here is connected.
 
-Everything here is connected. Built to work. Built to work together.
+**Built to work.**      
+**Built to work together.**      
