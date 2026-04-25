@@ -8,15 +8,16 @@ It’s where everything connects.
 
 ## What this is
 
-DirectoryBase is a set of projects built around one problem:
+DirectoryBase is built around one problem:
 
 AI output looks right.
 
 But it breaks when you try to use it.
 
-Existing tools just didn't work for well enough for me, so I built these myself.
+Existing tools just didn't solve this well.
 
 ---
+
 
 ## The parts
 
@@ -49,7 +50,7 @@ Most tools assume clean input.
 
 AI doesn’t give clean input.
 
-So things fail in small ways:
+So things fail in predictable ways:
 
 - broken JSON  
 - missing fields  
@@ -73,4 +74,4 @@ This system is built to catch that early.
 
 This is not a directory of random projects.
 
-Everything here is connected. Built to work. Build to work together.
+Everything here is connected. Built to work. Built to work together.
