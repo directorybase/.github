@@ -1,4 +1,4 @@
-# directorybase
+# DirectoryBase
 
 This is the system behind the tools.
 
