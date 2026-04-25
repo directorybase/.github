@@ -14,7 +14,7 @@ AI output looks right.
 
 But it breaks when you try to use it.
 
-Existing tools just didn't for well enough, so I built these myself.
+Existing tools just didn't work for well enough for me, so I built these myself.
 
 ---
 
