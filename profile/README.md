@@ -8,7 +8,7 @@ It’s where everything connects.
 
 ## What this is
 
-directorybase is a set of projects built around one problem:
+DirectoryBase is a set of projects built around one problem:
 
 AI output looks right.
 
@@ -73,4 +73,4 @@ This system is built to catch that early.
 
 This is not a directory of random projects.
 
-Everything here is connected.
+Everything here is connected. Built to work. Build to work together.
